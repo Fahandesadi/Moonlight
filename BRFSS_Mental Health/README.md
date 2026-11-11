@@ -1,1 +1,1 @@
-My BRFSS Mental Health Project
+My BRFSS Mental Health and Life Satisfaction Project
